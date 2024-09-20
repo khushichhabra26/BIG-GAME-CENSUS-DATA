@@ -40,9 +40,8 @@ Data collected from population census estimates and player data.
 
 **How to Run the Project** -
 
-Download or clone the repository.
 
-Open **Big_Game_Cleaned_Data.xlsx**to explore the cleaned dataset.
+Open **Big_Game_Cleaned_Data.xlsx** to explore the cleaned dataset.
 
 Open **Big_Game_Visualizations.pdf** in Power BI to interact with the visualizations.
 
@@ -50,6 +49,7 @@ Check the PowerPoint file for key insights and presentation format.
 
 
 **Conclusion** -
+
 
 This project offers insights into how population estimates and player data correlate, highlighting potential trends in player distribution based on geographic regions.
 
